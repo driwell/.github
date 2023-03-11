@@ -1,2 +1,2 @@
 # .github
-fallback rules and templates for other repos
+fallback rules and templates
